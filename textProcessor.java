@@ -1,5 +1,5 @@
 import java.util.*;
-public class textProcessor {
+public class TextProcessor {
    private ArrayList<String> textList;
    
    
