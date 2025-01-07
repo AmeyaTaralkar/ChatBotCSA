@@ -1,9 +1,9 @@
 import java.util.*;
-public class ChatBot {
-   public static void main(String[] args) {
+public class ChatBot { // start class
+   public static void main(String[] args) { // start main method
       boolean check = true;
       Scanner scan = new Scanner(System.in);
-      while(check) {
+      while(check) { // start while loop
          System.out.println("Hi! Welcome to the companion chatbot! Hahaha. What is your name mate?");
          
          String nameOfUser = scan.nextLine();
@@ -17,10 +17,20 @@ public class ChatBot {
             
          String jokeInput = scan.nextLine();
          if(jokeInput.equalsIgnoreCase("sure") || jokeInput.equalsIgnoreCase("ok") || jokeInput.equalsIgnoreCase("yes"))
-            System.out.println("Joke: Why shouldn't you fundraise for marathons? I will give you 10 seconds to think and then reveal the answer...");
+            System.out.println("Joke: Why shouldn't you fundraise for marathons?");
+            String nextJokeInput = scan.nextLine();
+            nextJokeInput = nextJokeInput.toUpperCase();
+            char expectedChar = 'W';
+            char secondExpectedChar = 'I';
+            char firstLetter = nextJokeInput.charAt(0);
+            if(firstLetter == expectedChar || firstLetter == secondExpectedChar)
+               System.out.println("Because they just take the money and run");
             
          else if(jokeInput.equalsIgnoreCase("no") || jokeInput.equalsIgnoreCase("nah"))
             System.out.println("Ok. No joke then. What do you want to learn about?");
-      }
-   }
-}
+         System.out.println("Do you want to hear another joke? Yes or no?");
+         String secondJokeInput = scan.nextLine();
+         System.out.println(Pattern.matches("yes"));
+      } // end while loop
+   }// end main method
+}// end class
