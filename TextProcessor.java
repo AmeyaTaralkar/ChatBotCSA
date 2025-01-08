@@ -1,5 +1,5 @@
 import java.util.*;
-public class TextProcessor
+public class textProcessor 
 {
 	private String fileName;
     private ArrayList<String> textList;
@@ -8,25 +8,29 @@ public class TextProcessor
      * Constructor to create a TextProcessor with a file.
      * @param fileName The name of the file to read.
      */
-    public TextProcessor(String fileName) {
-        this.fileName = fileName;
-        this.textList = FileReaderUtil.toStringList(fileName);
-    }
+	public textProcessor(String fileName) 
+	{
+		this.fileName = fileName;
+		textList = FileReader.toStringList(fileName);
+	}
 
     /**
      * Constructor to create a TextProcessor with a list of text.
      * @param textList The list of text.
      */
-    public TextProcessor(ArrayList<String> textList) {
-        this.textList = textList;
-    }
+   public textProcessor(ArrayList<String> textList)
+   {
+    this.textList = textList;
+   }
 
     /**
      * Gets the list of text.
      * @return The list of text.
      */
-    public ArrayList<String> getTextList() {
-        return textList;
-    }
+    public ArrayList<String> getTextList() 
+    {
+    return textList;
+   }
+ 
 	
 }
