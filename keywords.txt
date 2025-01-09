@@ -1,0 +1,3 @@
+TAG;WORD
+KEYWORD;love
+KEYWORD;hate

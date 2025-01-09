@@ -41,6 +41,7 @@ public class ChatBot { // start class
             System.out.println("Do you want to hear another joke? Yes or no?");
             String secondJokeInput = scan.nextLine();
             System.out.println(Pattern.matches(secondJokeInput, "yes"));
+
          } // end while loop
       }
 }// end class
