@@ -1,7 +1,5 @@
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
+import java.util.*;
+import java.io.*;
 
 /**
  * TextProcessor class to handle reading and processing text data.
