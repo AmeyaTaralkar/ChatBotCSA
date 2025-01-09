@@ -28,9 +28,9 @@ public class ChatBot { // start class
             
          else if(jokeInput.equalsIgnoreCase("no") || jokeInput.equalsIgnoreCase("nah"))
             System.out.println("Ok. No joke then. What do you want to learn about?");
-         System.out.println("Do you want to hear another joke? Yes or no?");
-         String secondJokeInput = scan.nextLine();
-         System.out.println(Pattern.matches("yes"));
+            System.out.println("Do you want to hear another joke? Yes or no?");
+            String secondJokeInput = scan.nextLine();
+            System.out.println(Pattern.matches("yes"));
       } // end while loop
    }// end main method
 }// end class
