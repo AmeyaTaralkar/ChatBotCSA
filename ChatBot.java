@@ -5,7 +5,7 @@ public class ChatBot extends TextProcessor { // start class
       boolean check = true;
       Scanner scan = new Scanner(System.in);
       while(check) { // start while loop
-         System.out.println("Hi! Welcome to the funny companion chatbot! Hahaha. What is your name mate?");
+         System.out.println("Hi! Welcome to the companion chatbot! Hahaha. What is your name mate?");
          
          String nameOfUser = scan.nextLine();
          if(nameOfUser.equalsIgnoreCase("exit") || nameOfUser.equalsIgnoreCase("goodbye")) {
@@ -43,7 +43,7 @@ public class ChatBot extends TextProcessor { // start class
             boolean secondJokeQuestion = Pattern.matches(".*\\bhow much\\b.*", secondJokeInput.toLowerCase());
             if(secondJokeQuestion)
                System.out.println("Nothing. They're pretty light.");
-            System.out.println("What do you want to talk about " + nameOfUser);
+            System.out.println("What do you want to talk about? Anything topic you are interested in? " + nameOfUser);
             String userFirstInput = scan.nextLine();
       } // end while loop
    }// end main method
