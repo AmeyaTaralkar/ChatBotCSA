@@ -9,7 +9,7 @@ public class TextProcessor
     private java.util.Map<String, String> keywords;
 
     public TextProcessor() {
-        keywords = loadKeywords("/Users/liliyan/Desktop/Code/AP CSA/APCSA-Code/keywords.txt");
+        keywords = loadKeywords("keywords.txt");
     }
 
     /**
