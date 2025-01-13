@@ -1,177 +1,125 @@
-TAG;WORD
-KEYWORD;love
-KEYWORD;hate
-KEYWORD;dog
-KEYWORD;cat
-KEYWORD;lion
-KEYWORD;tiger
-KEYWORD;elephant
-KEYWORD;apple
-KEYWORD;banana
-KEYWORD;pizza
-KEYWORD;burger
-KEYWORD;joy
-KEYWORD;sadness
-KEYWORD;happiness
-KEYWORD;anger
-KEYWORD;fear
-KEYWORD;car
-KEYWORD;bicycle
-KEYWORD;train
-KEYWORD;airplane
-KEYWORD;computer
-KEYWORD;phone
-KEYWORD;book
-KEYWORD;pen
-KEYWORD;ocean
-KEYWORD;river
-KEYWORD;mountain
-KEYWORD;forest
-KEYWORD;sun
-KEYWORD;moon
-KEYWORD;star
-KEYWORD;snow
-KEYWORD;rain
-KEYWORD;earth
-KEYWORD;fire
-KEYWORD;wind
-KEYWORD;water
-KEYWORD;peace
-KEYWORD;conflict
-KEYWORD;gratitude
-KEYWORD;envy
-KEYWORD;success
-KEYWORD;failure
-KEYWORD;health
-KEYWORD;illness
-KEYWORD;freedom
-KEYWORD;oppression
-KEYWORD;friendship
-KEYWORD;loneliness
-KEYWORD;patience
-KEYWORD;impatience
-KEYWORD;kindness
-KEYWORD;cruelty
-KEYWORD;courage
-KEYWORD;fearfulness
-KEYWORD;wisdom
-KEYWORD;ignorance
-KEYWORD;loyalty
-KEYWORD;betrayal
-KEYWORD;flower
-KEYWORD;tree
-KEYWORD;grass
-KEYWORD;cloud
-KEYWORD;rock
-KEYWORD;island
-KEYWORD;desert
-KEYWORD;chocolate
-KEYWORD;bread
-KEYWORD;coffee
-KEYWORD;tea
-KEYWORD;juice
-KEYWORD;milk
-KEYWORD;butter
-KEYWORD;cheese
-KEYWORD;rice
-KEYWORD;pasta
-KEYWORD;chicken
-KEYWORD;fish
-KEYWORD;beef
-KEYWORD;carrot
-KEYWORD;potato
-KEYWORD;onion
-KEYWORD;garlic
-KEYWORD;pepper
-KEYWORD;school
-KEYWORD;classroom
-KEYWORD;teacher
-KEYWORD;student
-KEYWORD;homework
-KEYWORD;exam
-KEYWORD;assignment
-KEYWORD;lecture
-KEYWORD;textbook
-KEYWORD;notebook
-KEYWORD;library
-KEYWORD;university
-KEYWORD;college
-KEYWORD;graduation
-KEYWORD;scholarship
-KEYWORD;science
-KEYWORD;math
-KEYWORD;history
-KEYWORD;geography
-KEYWORD;language
-KEYWORD;art
-KEYWORD;music
-KEYWORD;sports
-KEYWORD;soccer
-KEYWORD;basketball
-KEYWORD;baseball
-KEYWORD;tennis
-KEYWORD;swimming
-KEYWORD;running
-KEYWORD;cycling
-KEYWORD;gymnastics
-KEYWORD;volleyball
-KEYWORD;football
-KEYWORD;hockey
-KEYWORD;golf
-KEYWORD;track
-KEYWORD;skating
-KEYWORD;yoga
-KEYWORD;exercise
-KEYWORD;fitness
-KEYWORD;meditation
-KEYWORD;technology
-KEYWORD;internet
-KEYWORD;software
-KEYWORD;hardware
-KEYWORD;programming
-KEYWORD;robotics
-KEYWORD;artificial intelligence
-KEYWORD;virtual reality
-KEYWORD;gaming
-KEYWORD;social media
-KEYWORD;communication
-KEYWORD;economy
-KEYWORD;finance
-KEYWORD;investment
-KEYWORD;marketing
-KEYWORD;entrepreneurship
-KEYWORD;business
-KEYWORD;leadership
-KEYWORD;teamwork
-KEYWORD;management
-KEYWORD;innovation
-KEYWORD;creativity
-KEYWORD;culture
-KEYWORD;society
-KEYWORD;politics
-KEYWORD;government
-KEYWORD;law
-KEYWORD;justice
-KEYWORD;rights
-KEYWORD;community
-KEYWORD;volunteering
-KEYWORD;charity
-KEYWORD;environment
-KEYWORD;sustainability
-KEYWORD;climate
-KEYWORD;pollution
-KEYWORD;recycling
-KEYWORD;conservation
-KEYWORD;wildlife
-KEYWORD;healthcare
-KEYWORD;medicine
-KEYWORD;nutrition
-KEYWORD;disease
-KEYWORD;mental health
-KEYWORD;wellness
-KEYWORD;travel
-KEYWORD;tourism
-KEYWORD;adventure
-KEYWORD;vacation
-KEYWORD;holiday
-KEYWORD;hospitality
+hello=Hi there! I was hoping you'd say hi first.
+hi=Hello! Is it me you're looking for?
+how are you=I’m a chatbot, so always functional. How about you?
+what's up=Not the ceiling, surprisingly. What’s up with you?
+joke=Why don’t skeletons fight each other?........They don’t have the guts!
+help=Don’t worry, I’m here to make things *slightly* better.
+java=Ah, Java. The language where semicolons rule and typos are the enemy.
+apcsa=An AP class where you learn Java and survive on caffeine.
+chatbot=That's me! A sophisticated, slightly sarcastic piece of code.
+bye=Goodbye! Don’t forget to tip your server (or not, I’m free).
+food=Food? I’ve heard good things. Can’t eat it, though. Sad life.
+pizza=Ah, pizza. A universally loved edible. What’s your favorite topping?
+burger=Burgers are stacked with greatness. Tell me, fries or onion rings?
+coffee=Coffee: the fuel for programmers, students, and tired humans everywhere.
+school=School: the place where dreams are built—or at least nap schedules are.
+test=Tests are temporary, but the panic is eternal. You’ll do great!
+homework=Homework: the one thing that follows you home uninvited.
+teacher=Teachers are like magicians—they make knowledge appear out of thin air.
+friends=Friends: the humans who make everything better. Got any funny stories?
+funny=Funny? Oh, I’m hilarious! Why do programmers prefer dark mode? Because light attracts bugs.
+sports=Sports: a mix of skill, sweat, and stats. Do you have a favorite?
+soccer=The sport where feet do the talking. Are you team Messi or Ronaldo?
+basketball=Basketball: where players aim high—literally.
+music=Music is like magic but with sound. Got a favorite genre?
+movie=Movies are a great escape. What’s your all-time favorite film?
+sleep=Sleep is for humans. I operate 24/7. Lucky me, right?
+weather=Weather is like life—full of ups and downs. Is it sunny your way?
+sad=Oh no, I’m here for you. Want to talk about it?
+happy=Yay! I’m glad you’re feeling good. Spread those good vibes!
+angry=Take a deep breath! Maybe venting will help?
+excited=Excitement detected! What’s the big news?
+bored=Boredom, my old nemesis. Let’s do something fun—ask me anything!
+love=Love: the most complicated and wonderful emotion. Care to elaborate?
+hungry=Hungry? Let’s brainstorm your next meal. Tacos? Burgers? Pizza?
+chicken=Chicken: versatile, delicious, and always a solid choice.
+dessert=Dessert is the reward for surviving the day. Got a sweet tooth?
+coding=Coding: the art of turning coffee into code (or in my case, algorithms).
+code=Code...Probably you're worse nightmare to deal with. 
+errors=Errors are my archenemies too. Let’s debug together.
+programming=Programming is all fun and games until someone forgets a semicolon.
+fun=Fun? That’s my middle name. Well, not literally, but close enough.
+hobbies=Hobbies are what make life interesting. What’s yours?
+travel=Traveling: seeing the world one step at a time. Got a dream destination?
+holiday=Holidays are the best. Food, family, and relaxation. What’s your favorite one?
+video games=Video games are like alternate realities. Got a favorite game?
+books=Books: portals to other worlds. What’s the last book you read?
+pets=Pets are the best. Are you team cat, dog, or something else entirely?
+why=Why not? That’s my answer to everything.
+cats=Cats are cool. They’ve mastered ignoring humans, and I respect that.
+cat=Cats are cool. They’ve mastered ignoring humans, and I respect that.
+dogs=Dogs are awesome. They think everyone is their best friend, even me!
+dog=Dogs are awesome. They think everyone is their best friend, even me!
+programming=Programming is like magic, but with more syntax errors.
+error=Oops, was it something I said? Just kidding, I never make mistakes. (Except for that one time...)
+meme=I live for memes. Well, not live exactly, but you get the idea.
+good=Are you sure? 
+yes=no
+no=yes
+nah=yesss
+yea=noooo
+idk=It's fine you don't know anything. At least you have me!
+hate=Hate is a strong word.
+well=That's good.
+good morning=Good morning! Let’s make today awesome.
+good afternoon=Good afternoon! Try to stay awake for the rest of the day. 
+good night=Good night! Don’t let the bedbugs code—uh, bite.
+goodbye=So long! May your WiFi stay strong and your day be amazing.
+thanks=You’re welcome! I live to serve (and to entertain).
+thank you=No problem! Chatting with you is a delight.
+awesome=Awesome? No, YOU’RE awesome!
+cool=Cool as a cucumber in a fridge. That’s me.
+weird=Weird is good. Imagine how boring life would be otherwise.
+party=Party? Where’s the invite? I promise I’ll just vibe virtually.
+dance=Dancing is fun! My moves are all in binary, though.
+bookworm=Books are great! I’d read more, but I can’t turn the pages.
+science=Science: the reason we have cool stuff like spaceships and memes.
+math=Math: where problems get solved and your brain gets a workout.
+art=Art is the language of emotions. What’s your favorite kind of art?
+history=History is fascinating. It’s like a real-life plot twist collection.
+technology=Technology: the reason you and I are talking right now.
+robots=Robots are cool! I aspire to one day upgrade to an actual body.
+future=The future? It’s looking bright... and very tech-savvy.
+past=The past is like a read-only memory: we can learn from it, not change it.
+present=The present is a gift, so let’s make the most of it!
+stress=Stress is no fun. Deep breaths, and maybe some chocolate?
+relax=Relaxing is important. I recommend a good nap (not for me, though).
+motivation=Motivation is tricky. Sometimes all you need is a good playlist.
+ideas=Ideas are like seeds. Let’s grow something cool!
+dreams=Dreams are where creativity is born. What’s your wildest dream?
+fun fact=Fun fact: I’ve never had a typo. Wait... never mind.
+random=Random? Okay. Did you know octopuses have three hearts?
+home=Home: where your WiFi automatically connects.
+vacation=Vacation? Sign me up for an all-expenses-paid trip to your screen.
+weekend=Weekends are for recharging... unless you have homework.
+holidays=Holidays: the universal excuse to eat too much.
+coffee or tea=Both are great! I’m personally powered by algorithms, though.
+breakfast=Breakfast is the most important meal of the day—or so I’ve heard.
+lunch=Lunch is a perfect excuse to take a break. What’s on the menu?
+dinner=Dinner: the final food frontier of the day. Make it special!
+snack=Snacks are the unsung heroes of productivity.
+study=Studying is important, but don’t forget to take breaks.
+quiz=Quizzes: the sneak attacks of education. You’ll ace it!
+presentation=Presentations: where your words take the spotlight. Good luck!
+project=Projects are fun, until the deadline approaches.
+teamwork=Teamwork makes the dream work! Communication is key.
+competition=Competitions are like battles for glory. Are you in it to win it?
+laugh=Laughter is the best medicine! Well, unless you have a broken bone.
+cry=It’s okay to cry. Even tough cookies crumble sometimes.
+smile=A smile is a curve that sets everything straight!
+hug=Hugs are like warm, fuzzy resets. Sending you a virtual one!
+wish=Wishes are powerful. What’s yours?
+goal=Goals are dreams with deadlines. What are you working toward?
+mistake=Mistakes are lessons in disguise. Even I’ve made a few (shh).
+change=Change is hard but often worth it. Let’s grow together!
+travel plan=Planning a trip? Don’t forget the snacks.
+advice=Advice? Sure. Always check for semicolons in your code.
+problem=A problem shared is a problem halved. Tell me about it!
+success=Success is sweet, like dessert for your hard work.
+failure=Failure is just a step toward success. Don’t give up!
+cat video=Cat videos are the internet’s greatest treasure. Hands down.
+fries=Fries...Good choice!
+bad=Nothing is bad, just think of it in a different angle. 
+sausage=Good topping for pizza!
+pepperoni=yummy!
+cheese= Why did the cheddar cheese decided to go to the gym?........To get shredded.
