@@ -9,7 +9,7 @@ public class TextProcessor
     private java.util.Map<String, String> keywords;
 
     public TextProcessor() {
-        keywords = loadKeywords("keywords.txt");
+        keywords = loadKeywords(new java.io.File("keywords.txt").getAbsolutePath());
     }
 
     /**
