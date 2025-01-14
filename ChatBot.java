@@ -2,26 +2,30 @@
  * This file creates the ChatBot object, giving it functionalities
  * such as running the program and interpreting text to choose 
  * what to reply to
- * 
- * 
  */
 
 import java.util.*;
 import java.util.regex.Pattern;
-
-
+/**
+ * ChatBot class to represent a simple interactive chatbot.
+ * Provides functionalities to interact with users, interpret input,
+ * and respond based on predefined rules. Includes a mini-game for fun.
+ */
 public class ChatBot
 { // start class
     private TextProcessor textProcessor;
     public static Scanner scanner;
     public static String nameOfUser;
-
+ /**
+     * Constructs a new ChatBot object and initializes the text processor.
+     */
     public ChatBot() {
         textProcessor = new TextProcessor();
     }
 
     /**
-     * Starts the chatbot interaction.
+     * Starts the chatbot interaction loop. Prompts the user for their name,
+     * continuously takes input, and responds appropriately until the user exits.
      */
     public void start() {
 		System.out.println("Welcome to the companion chatbot! Hahaha. What is your name mate?");
@@ -50,7 +54,8 @@ public class ChatBot
     }
     
     /**
-     * Starts a game of rock paper scissors with the user 
+     * Starts a game of rock-paper-scissors with the user.
+     * Tracks the scores for the user and the bot and allows the user to exit anytime.
      */
      
     public void game() {
