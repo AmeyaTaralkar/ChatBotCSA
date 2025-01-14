@@ -1,5 +1,14 @@
+/**
+ * This file creates the ChatBot object, giving it functionalities
+ * such as running the program and interpreting text to choose 
+ * what to reply to
+ * 
+ * 
+ */
+
 import java.util.*;
 import java.util.regex.Pattern;
+
 public class ChatBot
 { // start class
   private TextProcessor textProcessor;
@@ -26,7 +35,7 @@ public class ChatBot
             }
 
             String response = textProcessor.getResponse(userInput);
-            System.out.println("Bot: " + response);
+            System.out.println("Sertheya: " + response);
         }
 
         scanner.close();
