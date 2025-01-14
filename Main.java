@@ -6,11 +6,20 @@
 * @version: 1.0
 * Date: 01/14/2025
 */
+import java.util.*;
 
-public class Main { // start class
-    public static void main(String[] args) { // start main method
+/**
+ * Main class to run the ChatBot program.
+ */
+public class Main 
+{ // start class
+	/**
+     * Main method to create and start the chatbot.
+     * @param args Command-line arguments (not used).
+     */
+    public static void main(String[] args) 
+    { // start main method
         ChatBot sertheya = new ChatBot();
         sertheya.start();
     }
 }// end class
-
