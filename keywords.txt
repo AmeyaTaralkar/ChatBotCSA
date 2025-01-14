@@ -129,3 +129,11 @@ bad=Nothing is bad, just think of it in a different angle.
 sausage=Good topping for pizza!
 pepperoni=yummy!
 cheese= Why did the cheddar cheese decided to go to the gym?........To get shredded.
+shut up=Make me >:(
+shut= Make me >:(
+stop= Make me >:)
+are you= To be or not to be... that's the question.
+are you dumb= Quite the opposite!
+get out= no
+what=what?
+
