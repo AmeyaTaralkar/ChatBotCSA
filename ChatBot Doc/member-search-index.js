@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"ChatBot","l":"ChatBot()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"ChatBot","l":"game()"},{"p":"<Unnamed>","c":"ChatBot","l":"nameOfUser"},{"p":"<Unnamed>","c":"ChatBot","l":"scanner"},{"p":"<Unnamed>","c":"ChatBot","l":"start()"}];updateSearchResults();
